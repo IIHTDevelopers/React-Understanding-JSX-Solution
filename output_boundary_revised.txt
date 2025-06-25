@@ -1,3 +1,0 @@
-appcomponentBoundaryRendersStaticGreetingMessage=true
-appcomponentBoundaryRendersTheDynamicUserStatus(online)=true
-appcomponentBoundaryRendersTheCorrectGreetingBasedOnTheTimeOfDay(morning)=true
